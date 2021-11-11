@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 # Define first function
 
 def display(x , y):
-    plt.plot = (x,y)
+    plt.plot = (x, y)
     plt.show()
 
 # Define second function
